@@ -5,16 +5,15 @@
 [![GitHub B H S Naga Sai](https://img.shields.io/github/followers/elise-chin?label=follow&style=social)](https://github.com/elise-chin)&nbsp;
 ###
 
+- 👀 I'm interested in Data Science and Ecology.
 - 🔭 I’m currently working on a R&D NLP x Climate project, with [Square Research Center](https://www.square-management.com/square-research-center/?lang=en).
 - 🌱 I’m currently learning about climate risks, and tech for good.
-- 👯 I’m looking to collaborate on projects using Data Science for climate change.
-- 📫 Reach me on [<img alt="linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>][linkedin].
+- 👯 I’m looking to collaborate on projects using Data Science for climate change!
+- 📫 You can reach me at [Linkedin](https://fr.linkedin.com/in/elise-chin).
 - 😄 You can check my [professional account](https://github.com/elise-chin-adway).
 
 
 ![Elise's GitHub stats](https://github-readme-stats-e2rh8h8jp-elise-chin.vercel.app/api?username=elise-chin&show_icons=true&hide_border=true&count_private=true)
-
-[linkedin]: https://fr.linkedin.com/in/elise-chin
 
 
 <!--
