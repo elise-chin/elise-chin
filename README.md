@@ -13,9 +13,6 @@
 - 😄 You can check my [professional account](https://github.com/elise-chin-adway).
 
 
-![Elise's GitHub stats](https://github-readme-stats-e2rh8h8jp-elise-chin.vercel.app/api?username=elise-chin&show_icons=true&hide_border=true&count_private=true)
-
-
 <!--
 **elise-chin/elise-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
