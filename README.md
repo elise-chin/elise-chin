@@ -6,11 +6,11 @@
 ###
 
 - 👀 I'm interested in Data Science and Ecology.
-- 🔭 I’m currently working on a R&D NLP x Climate project, with [Square Research Center](https://www.square-management.com/square-research-center/?lang=en).
-- 🌱 I’m currently learning about climate risks, and tech for good.
-- 👯 I’m looking to collaborate on projects using Data Science for climate change!
+- 🍴 I’m currently working as Data Scientist at [Inpulse](https://en.inpulse.ai/?utm_source=google&utm_medium=cpc&utm_campaign=19646395340&utm_content=147401505522&utm_term=inpulse&gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_YiTIstCGdd3S8TyvLmLrvNlzqioGBtjihg7ejOacdMEjhFbDtpqw5SRoCxRgQAvD_BwE), the AI platform that revolutionizes inventory management and supplier ordering for restaurant chains.
+- 🚂 I’m currently contributing to [Trainscanner](https://www.train-scanner.com/), the train travel planner and booking platform for Europe.
+- 👯 I’m always looking for collaborating on projects using Data Science for climate change!
 - 📫 You can reach me at [Linkedin](https://fr.linkedin.com/in/elise-chin).
-- 😄 You can check my [professional account](https://github.com/elise-chin-adway).
+- 😄 You can check my [professional account](https://github.com/elise-inpulse).
 
 
 <!--
